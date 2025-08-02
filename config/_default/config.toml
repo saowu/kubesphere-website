@@ -1,4 +1,4 @@
-baseURL = "https://www.kubesphere.io/"
+baseURL = "https://kubesphere.saowu.top/"
 
 enableRobotsTXT = true
 ignorefiles = [ ".*/_custom" ]
