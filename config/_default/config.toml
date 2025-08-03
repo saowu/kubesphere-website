@@ -79,7 +79,7 @@ linkedinLink = "https://www.linkedin.com/company/kubesphere/"
 DemoLinkEn = "https://kubesphere.cloud/en/console/managed-cluster/"
 DemoLinkZh = "https://kubesphere.cloud/console/managed-cluster/"
 
-baiduAnalyticsID = "0888981f1fa45d241b1fb6962da2963e"
+baiduAnalyticsID = "c24f3edfa33df1ee590b111c69ef77f3"
 googleAnalyticsID = "G-YYCVN36HT5"
 
 [languages.en]
